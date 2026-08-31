@@ -1,0 +1,9 @@
+{
+  "name": "fixed-type-frontend-js-template",
+  "private": true,
+  "type": "module",
+  "description": "Static frontend release. The Hub publishes public/index.html, public/styles.css, and src/main.js unchanged; nothing here is executed.",
+  "scripts": {
+    "test": "node --test tests/page.test.mjs"
+  }
+}

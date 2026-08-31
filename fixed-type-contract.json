@@ -1,0 +1,11 @@
+{
+  "deploymentType": "frontend-js",
+  "typeDeclaration": {
+    "kind": "frontend-js/v1",
+    "entryPointPath": "src/main.js",
+    "builderProfile": "frontend-js-static/v1"
+  },
+  "artifactBuildIntent": {
+    "kind": "static-bundle/v1"
+  }
+}
